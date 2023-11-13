@@ -1,0 +1,27 @@
+# Scrapy
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Logs
+*.log
+
+# Python environment
+venv/
+env/
+
+#Pycharm
+.idea
+
+
+# Scraped data
+*.csv
+*.json
+*.jl
+*.xml
+*.pickle
+
+# Ignore .gitignore itself if it exists
+!.gitignore
