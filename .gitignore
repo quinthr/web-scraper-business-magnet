@@ -15,6 +15,8 @@ env/
 #Pycharm
 .idea
 
+output.xlsx
+./businessMagnet/businessMagnet/output.xlsx
 
 # Scraped data
 *.csv
